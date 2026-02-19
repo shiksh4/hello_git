@@ -7,4 +7,4 @@ if num > 3:
     print("ok")
 else:
     print("falso")
-print("hola")
+print("aprendiendo git")
